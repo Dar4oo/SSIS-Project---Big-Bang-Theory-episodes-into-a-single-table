@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Big Bang Theory episodes", "Big Bang Theory episodes\Big Bang Theory episodes.dtproj", "{0AD81B51-CB54-4AB5-BA49-1F8BC72354FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AD81B51-CB54-4AB5-BA49-1F8BC72354FB}.Development|Default.ActiveCfg = Development
+		{0AD81B51-CB54-4AB5-BA49-1F8BC72354FB}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
